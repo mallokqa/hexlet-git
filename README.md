@@ -1,3 +1,1 @@
-Hello, Hexlet!
-# hexlet-git
-# hexlet-git
+No code No pain
